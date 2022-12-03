@@ -1,2 +1,2 @@
 def tutoring():
-    return print(5+2)
+    return print(7+9)
